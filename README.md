@@ -1,3 +1,5 @@
+**NOTE**: _This repository is no longer supported or updated by Awake Security / Arista Networks. If you wish to continue to develop this code yourself, we recommend you fork it._
+
 # OSX Cider Bootstrap Files
 
 [Cider](https://github.com/msanders/cider) is a simple wrapper for [Homebrew](http://brew.sh) and [Homebrew Cask](http://caskroom.io). We use Cider to automate the process of installing a standard set of applications and utilities on our OSX Laptops. e.g. Google Chrome, Firefox, iTerm2, virtualbox and vagrant, dropbox, Oracle Java, CLI tools like GnuPG, Go, curl etc. 
